@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+*Main - Betty
+*Return: 0 if successful else return 1
+*/
 int main(void)
 {
 int number;
