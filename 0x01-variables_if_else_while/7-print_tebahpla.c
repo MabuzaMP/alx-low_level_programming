@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main Code
- * Print alphabet in revesal
- */
+* main - Betty
+* Return: 0 if successful else return 1
+*/
 int main(void)
 {
 char letter;

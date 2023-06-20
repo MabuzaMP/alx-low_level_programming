@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-*Main code
-*Description : Print alphabets
-*in small case and big case
+* main - Betty
+* Return: 0 if successful else return 1
 */
 int main(void)
 {

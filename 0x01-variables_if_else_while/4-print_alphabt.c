@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * Main Code
- * Description - Print all alphabets
- * expet for 'e and'q
- */
+* main - Betty
+* Return: 0 if successful else return 1
+*/
 int main(void)
 {
 char letter;

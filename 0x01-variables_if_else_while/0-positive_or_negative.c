@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Main Code
-* Check if Number is POS,NEG or ZERO
+* main - Betty
+*Return: 0 if successful else return 1
 */
 int main(void)
 {

@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * Main Code - entry
- * Print- NO from
- * Zero to NINe
- */
+* main - Betty
+* Return: 0 if successful else return 1
+*/
 int main(void)
 {
 int Number;

@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* Main Code
-* Print the last digit of a Random Number % by Ten
-* and compare if is greater than Five or less than Six
+* main - Betty
+* Return: 0 if successful else return 1
 */
 int main(void)
 {
