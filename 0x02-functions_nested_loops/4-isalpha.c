@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * is_alpha -Shows 1 if a letter
+ * _isalpha -Shows 1 if a letter
  * is shown,then 0 for rest
  * @c: the charracter to be checked
  * Return: 1 for letters. 0 for the rest
