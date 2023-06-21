@@ -13,6 +13,6 @@ if (last_digit < 0)
 {
 last_digit = last_digit * -1;
 }
-putchar(last_digit + '0');
+putchar('0' + last_digit);
 return (last_digit);
 }
