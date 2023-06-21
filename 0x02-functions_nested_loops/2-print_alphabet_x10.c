@@ -13,9 +13,9 @@ for (i = 0; i < 10; i++)
 letter = 'a';
 while (letter <= 'z')
 {
-_putchar(letter);
+putchar(letter);
 letter++;
 }
 }
-_putchar('\n');
+putchar('\n');
 }
