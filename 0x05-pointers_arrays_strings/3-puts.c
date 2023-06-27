@@ -4,7 +4,7 @@
  * _puts - Main Entry
  * @str: input
  */
-void puts(char *str)
+void _puts(char *str)
 {
 int i;
 for (i = 0; *(str + i); i++)
