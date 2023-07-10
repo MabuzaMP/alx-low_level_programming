@@ -6,7 +6,7 @@
  * @argv: the argument value for char
  * Return: Always 0 ( success)
  */
-int main(char argc, char *argv[])
+int main(int argc, int *argv[])
 {
 printf("%s\n", argv [argc -argc]);
 return 0;
