@@ -5,9 +5,9 @@
 #define NUM_COINS 5
 
 /**
- * Prints the minimum number of coins needed to make change for an amount of money.
- * @param cents The amount of cents to make change for.
- * @return The minimum number of coins needed.
+ * get_min_coins: Prints the minimum number of coins needed to make change for an amount of money.
+ * @cents: The amount of cents to make change for.
+ * Return :The minimum number of coins needed.
  */
 
 int get_min_coins(int cents)
