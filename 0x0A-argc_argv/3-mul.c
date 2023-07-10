@@ -3,6 +3,7 @@
 #include <stdlib.h>
 /**
  *main- Multiplies two numbers and prints the result.
+ * _atoi - converts a string to an integer
  * @argc: The number of arguments passed into the program.
  * @argv: The array of arguments passed into the program.
  * Return: 0 on success, or 1 on failure.
